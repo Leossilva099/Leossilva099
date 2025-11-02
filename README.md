@@ -11,9 +11,11 @@
   </a>
 </div>
 
+
+
 ###
 
-<h1 align="center">HI there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 ###
 
@@ -24,6 +26,7 @@
 <p align="left">- 📚 I'm a Master's student in Artificial Intelligence at the University of Coimbra.  <br>- ⚡ In my free time, I love coding, discovering new AI tools, and playing guitar.</p>
 
 ###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
