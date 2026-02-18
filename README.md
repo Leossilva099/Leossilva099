@@ -21,7 +21,6 @@
 
 - 📚 I'm a **Master's student in Artificial Intelligence** at the **University of Coimbra**.  
 - 🧠 I'm currently learning about **Machine Learning**, **Deep Neural Networks**, **Semantic Web**, and **Knowledge Representation**.  
-- 🔍 I'm also exploring **classical ML techniques** such as **feature selection**, **dimensionality reduction**, and **model evaluation**.  
 - 🎯 My goal is to **investigate and contribute to the field of Artificial Intelligence**.  
 - ⚡ In my free time, I love coding, discovering new AI tools, and playing guitar.
 
